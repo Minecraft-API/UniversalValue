@@ -8,7 +8,7 @@ An EMC like value system
 What is this?
 ===============
 
-I have started to become sick of all these EMC like value systems. I've decided to create a system that can be adopted baby mod developers instead of them making their own system
+I have started to become sick of all these EMC like value systems. I've decided to create a system that can be adopted by mod developers instead of them making their own system
 
 
 License
