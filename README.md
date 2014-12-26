@@ -20,7 +20,7 @@ This mod is licensed under the Lesser General Public License v3.0 by GNU. I enco
 Mod Compatibility
 ==================
 
-In the future I plan to make this mod compatible with: 
+In the future I plan to make this mod/API compatible with: 
 
 * Equivalent Exchange 3
 * ProjectE
