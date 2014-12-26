@@ -4,6 +4,8 @@
     {"name":"sand", "value":1},
 
     {"name":"diamond", "value":8192},
-    {"name":"redstone", "value":64}
+    {"name":"redstone", "value":64},
+
+    {"name":"iron_ingot", "value":256}
 ]}
     
