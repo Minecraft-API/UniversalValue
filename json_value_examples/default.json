@@ -1,4 +1,9 @@
 {"default-values":[
-    {"name":"cobblestone", "value":1}
+    {"name":"cobblestone", "value":1},
+    {"name":"dirt", "value":1},
+    {"name":"sand", "value":1},
+
+    {"name":"diamond", "value":8192},
+    {"name":"redstone", "value":64}
 ]}
     
