@@ -21,5 +21,6 @@ Mod Compatibility
 ==================
 
 In the future I plan to make this mod compatible with: 
-*Equivalent Exchange 3
-*ProjectE
+
+* Equivalent Exchange 3
+* ProjectE
