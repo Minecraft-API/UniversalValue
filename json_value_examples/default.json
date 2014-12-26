@@ -1,8 +1,4 @@
-
-{
-        "values": {
-                 "cobblestone": {
-                         "value": 1
-                 }
-        }
-}
+{"default-values":[
+    {"name":"cobblestone", "value":1}
+]}
+    
