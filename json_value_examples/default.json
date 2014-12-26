@@ -1,1 +1,8 @@
-CURRENTLY NOT IMPLEMENTED
+
+{
+        "values": {
+                 "cobblestone": {
+                         "value": 1
+                 }
+        }
+}
