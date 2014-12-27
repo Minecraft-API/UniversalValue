@@ -10,4 +10,7 @@ public class UVMod
     public static final String MOD_ID = "universalvalue";
     public static final String MOD_NAME = "UniversalValue";
     public static final String MOD_VERSION = "@VERSION@";
+
+    @Mod.Instance(MOD_ID)
+    public static UVMod instance;
 }
