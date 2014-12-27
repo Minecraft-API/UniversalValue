@@ -1,32 +1,27 @@
-package ninja.universalvalue.api;
+package ninja.universalvalue.value;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
-public class UniversalValue
+public class ValueMapper
 {
-    public UniversalValue(int value)
-    {
-
-    }
-
     public static int getValue(Item item)
     {
-        //TODO: Complete this method
-        return 1;
+        //|TODO: Complete this method
+        return 0;
     }
 
     public static int getValue(Block block)
     {
         //|TODO: Complete this method
-        return 1;
+        return 0;
     }
 
     public static int getValue(ItemStack itemStack)
     {
         //|TODO: Complete this method
-        return 1;
+        return 0;
     }
 
     public static void setValue(Item item, int value)
