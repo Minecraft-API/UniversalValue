@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "universalvalue",
+  "name": "UniversalValue",
+  "description": "An API Aadding an EMC like system :)",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/Minecraft-API/UniversalValue/",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["ViolentNinjaD"],
+  "credits": "Thanks to the developers of Equivalent Exchange (Pahimar) and ProjectE (SinKillerJ) for giving me this idea :D You guys are awesome <3",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
