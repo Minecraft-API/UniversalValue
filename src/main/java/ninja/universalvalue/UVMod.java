@@ -4,6 +4,13 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import ninja.universalvalue.json.DownloadDefaults;
+import ninja.universalvalue.json.JsonFileReader;
+import ninja.universalvalue.reference.JsonResources;
+import ninja.universalvalue.util.UVLogger;
+import ninja.universalvalue.value.ValueMapper;
+
+import java.net.URL;
 
 import static ninja.universalvalue.UVMod.*;
 
@@ -20,7 +27,9 @@ public class UVMod
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        UVLogger.info("Downloading default JSON files!");
+        DownloadDefaults.downloadDefault();
+        ValueMapper.registerValues();
     }
 
     @Mod.EventHandler
